@@ -21,14 +21,17 @@
 
 [https://git-scm.com/](https://git-scm.com/)
 
-
+</div>
 ---
+<div dir="rtl">
+
 
 # دانلود به صورت تک به تک
 
 
 ## فصل هفتم
 
+</div>
 
 [ویدیو ۱ فصل هفتم](https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-1.mp4)
 
@@ -101,8 +104,11 @@
 
 ---
 
+<div dir="rtl">
+
 
 ## فصل هشتم
+</div>
 
 [ویدیو ۱ فصل هشتم](https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%208/8-1.mp4)
 
@@ -129,8 +135,11 @@
 
 
 ---
+<div dir="rtl">
+
 
 ## فصل نهم
+</div>
 
 [ویدیو ۱ فصل نهم](https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4)
 
@@ -152,4 +161,3 @@
 
 [ویدیو ۷ فصل نهم](https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-7.mp4)
 
-</div>
