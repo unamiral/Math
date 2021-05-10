@@ -1,14 +1,18 @@
-
-
-
-<img src="https://www.roshd.ir/Portals/11/Images/Publisher/Riyazi07-book.jpg?ver=1397-09-19-085306-010&maxwidth=1000" alt="roshd" width="800"/>
-
-
-# دانلود همه به صورت یکجا
-
-![How download it](https://user-images.githubusercontent.com/77381164/117602536-2f1ad400-b166-11eb-93d2-c3fbfe4dac96.gif)
-
 <div dir="rtl">
+
+
+<img src="https://www.roshd.ir/Portals/11/Images/Publisher/Riyazi07-book.jpg?ver=1397-09-19-085306-010&maxwidth=1000" alt="roshd" width="600"/>
+
+
+  
+  
+<h2>دانلود همه به صورت یکجا</h2>
+
+
+<img src="https://user-images.githubusercontent.com/77381164/117602536-2f1ad400-b166-11eb-93d2-c3fbfe4dac96.gif" alt="How download it?" width="600"/>
+
+
+
 نکته اول : در ویندوز از نرم افزار سی ام دی  یا پاورشل استفاده کنید
 
 نکته دوم : در موبایل می توانید از ترموکس استفاده کنید
