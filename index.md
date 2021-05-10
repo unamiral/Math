@@ -2,8 +2,6 @@
 
 
 <img src="https://www.roshd.ir/Portals/11/Images/Publisher/Riyazi07-book.jpg?ver=1397-09-19-085306-010&maxwidth=1000" alt="roshd" width="600"/>
-
-
 ---
 
 # دانلود همه به صورت یکجا
@@ -13,14 +11,11 @@
 
 نکته اول : در ویندوز از نرم افزار سی ام دی  یا پاورشل استفاده کنید
 
-
 نکته دوم : در موبایل می توانید از ترموکس استفاده کنید
 
 نکته سوم باید نرم افزار گیت را نصب داشته باشید
 
-
 [https://git-scm.com/](https://git-scm.com/)
-
 </div>
 ---
 <div dir="rtl">
