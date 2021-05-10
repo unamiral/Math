@@ -2,7 +2,7 @@
 
 
 <img src="https://www.roshd.ir/Portals/11/Images/Publisher/Riyazi07-book.jpg?ver=1397-09-19-085306-010&maxwidth=1000" alt="roshd" width="800"/>
----
+
 
 # دانلود همه به صورت یکجا
 
