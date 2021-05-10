@@ -2,7 +2,8 @@
 
 ---
 # دانلود همه به صورت یکجا
-![How Download it?](https://user-images.githubusercontent.com/77381164/117579800-caca2700-b109-11eb-92e3-dccb43b08437.gif)
+
+![How download it](https://user-images.githubusercontent.com/77381164/117602536-2f1ad400-b166-11eb-93d2-c3fbfe4dac96.gif)
 
 نکته اول : در ویندوز از نرم افزار سی ام دی  یا پاورشل استفاده کنید
 
