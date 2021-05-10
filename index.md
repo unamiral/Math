@@ -1,3 +1,6 @@
+<div dir="rtl">
+
+
 <img src="https://www.roshd.ir/Portals/11/Images/Publisher/Riyazi07-book.jpg?ver=1397-09-19-085306-010&maxwidth=1000" alt="roshd" width="600"/>
 
 ---
@@ -97,3 +100,4 @@
 [ویدیو ۶ فصل نهم](https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-6.mp4)
 
 [ویدیو ۷ فصل نهم](https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-7.mp4)
+</div>
