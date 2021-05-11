@@ -64,12 +64,12 @@
 
 <h2>فصل نهم</h2>
 
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۱ فصل نهم]</a><br>
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۲ فصل نهم]</a><br>
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۳ فصل نهم]</a><br>
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۴ فصل نهم]</a><br>
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۵ فصل نهم]</a><br>
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۶ فصل نهم]</a><br>
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۷ فصل نهم]</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۱ فصل نهم</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۲ فصل نهم</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۳ فصل نهم</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۴ فصل نهم</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۵ فصل نهم</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۶ فصل نهم</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%209/9-1.mp4">ویدیو ۷ فصل نهم</a><br>
 
 </div>
