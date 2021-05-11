@@ -42,7 +42,7 @@
 <a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-20.mp4">ویدیو ۲۰ فصل هفتم</a><br> 
 <a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-21_edit.mp4">ویدیو ۲۱ فصل هفتم</a><br> 
 <a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-22.mp4">ویدیو ۲۲ فصل هفتم</a><br>
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-23.mp4">ویدیو۳۲۰ فصل هفتم</a><br>
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-23.mp4">ویدیو ۲۳ فصل هفتم</a><br>
 <hr>
 
 
