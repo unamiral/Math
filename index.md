@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/77381164/117602536-2f1ad400-b166-11eb-93d2-c3fbfe4dac96.gif" alt="How download it?" width="600"/>
 
-<p>نکته اول باید نرم افزار گیت را نصب داشته باشید: <a href="https://git-scm.com/">سایت گیت</a></p>
+<p>نکته اول باید نرم افزار گیت را نصب داشته باشید:  <a href="https://git-scm.com/">سایت گیت</a></p>
 
 <hr>
 
