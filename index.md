@@ -20,7 +20,7 @@
 <h2>فصل هفتم</h2>
 
 
-<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-1-fixed.mp4">ویدیو ۱ فصل هفتم</a><br> 
+<a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-1-fixed.mp4">ویدیو ۱ فصل هفتم</a><br>
 <a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-2-fixed.mp4">ویدیو ۲ فصل هفتم</a><br> 
 <a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-3-fixed.mp4">ویدیو ۳ فصل هفتم</a><br> 
 <a href="https://github.com/amirkasraEsmaeilian/-mathVideos/raw/main/Season%207/7-4-fixed.mp4">ویدیو ۴ فصل هفتم</a><br> 
